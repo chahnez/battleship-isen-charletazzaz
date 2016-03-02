@@ -3,6 +3,11 @@
 Vivien CHARLET
 Chahnez AZZAZ
 
+## Lancement du projet
+
+  mvn clean install
+  mvn jetty:run
+
 ## Informations
 
 Le projet permet de jouer à la bataille navale contre une IA simple. Il est disponnible en deux versions :
